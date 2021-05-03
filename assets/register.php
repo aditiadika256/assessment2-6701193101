@@ -9,7 +9,6 @@ if(isset($_POST['submit'])&&!empty($_POST['submit'])){
         
           echo "<script>
           alert('Registrasi Berhasil')
-          location= 'login.php';
           </script>";
     }else{
         
