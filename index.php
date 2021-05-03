@@ -1,3 +1,3 @@
 <?php 
-header("Location: ../assessment2/assets/login.php");
+header("Location: ../assets/login.php");
 ?>
